@@ -1,0 +1,30 @@
+.btn_choose
+{
+    height: 40px;
+    width: 150px;
+    left: 50%;
+    top: 50%;
+    position: absolute;
+    border: 5px  solid grey;
+    background-color: gray;
+    font-size: large;
+    color: white;
+}
+.div1
+{
+    position: relative;
+    margin-top: 40px;
+}
+
+.btn_change
+{
+    height: 40px;
+    width: 150px;
+    left: 50%;
+    top: 50%;
+    position: absolute;
+    border: 5px  solid black;
+    background-color: black;
+    font-size: large;
+    color: white;
+}
